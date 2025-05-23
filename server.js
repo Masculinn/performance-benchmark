@@ -1,4 +1,4 @@
-import { phase1, phase2 } from "./testModules.js";
+import { phase1, phase2 } from "./modules.js";
 
 /* Test Config */
 
